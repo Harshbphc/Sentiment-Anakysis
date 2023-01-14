@@ -12,5 +12,5 @@ https://www.kaggle.com/code/harshrachalwar/sentiment-dataset-k-20-and-distance-w
 
 Could not upload dataset here because the size of dataset is very big
 
-Google Drive link-
+Google Drive link to access code and dataset-
 https://drive.google.com/drive/folders/1mdPS7ug0vuxsNeCXYlETP1-fgnwPKc01?usp=sharing
