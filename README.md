@@ -2,6 +2,8 @@
 
 Sentiment Analysis dataset- Twitter
 
+I have classified Twitter tweets into different types, using spacy library and KNN classifier
+
 Link to Dataset-
 https://www.kaggle.com/datasets/tariqsays/sentiment-dataset-with-1-million-tweets
 
